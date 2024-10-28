@@ -1,6 +1,7 @@
+infiniflow/ragflow:dev-slim
 #nginx
 #支持私库
-infiniflow/ragflow:dev-slim
+
 
 #支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 xiaoyaliu/alist
