@@ -1,4 +1,4 @@
-infiniflow/ragflow:dev-slim
+mysql:8.0.39
 #nginx
 #支持私库
 
