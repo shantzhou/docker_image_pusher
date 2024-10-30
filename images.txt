@@ -1,4 +1,4 @@
-redis:7.2.4
+elasticsearch:8.11.3
 #nginx
 #支持私库
 
