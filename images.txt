@@ -1,4 +1,4 @@
-elasticsearch:8.11.3
+vllm/vllm-openai:latest
 #nginx
 #支持私库
 
